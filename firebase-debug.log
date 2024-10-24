@@ -1,0 +1,25 @@
+[debug] [2024-10-24T16:08:02.740Z] ----------------------------------------------------------------------
+[debug] [2024-10-24T16:08:02.742Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\salim\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-10-24T16:08:02.742Z] CLI Version:   13.23.0
+[debug] [2024-10-24T16:08:02.742Z] Platform:      win32
+[debug] [2024-10-24T16:08:02.742Z] Node Version:  v20.18.0
+[debug] [2024-10-24T16:08:02.742Z] Time:          Thu Oct 24 2024 19:08:02 GMT+0300 (Eastern European Summer Time)
+[debug] [2024-10-24T16:08:02.743Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-10-24T16:08:02.778Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-10-24T16:08:02.778Z] > authorizing via signed-in user (salimdirani@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\salim\projects\nextjs\codelab-friendlyeats-web
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
